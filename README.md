@@ -1,4 +1,4 @@
-# 💻 Desenvolvimento de Componentes – Bradesco
+# 💻 Desenvolvimento de Componentes – BRADECO
 
 **Professor:** Luiz Gustavo Diniz de Oliveira Véras
 

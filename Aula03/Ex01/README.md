@@ -16,6 +16,7 @@ DataTransmission → responsável apenas pela comunicação de dados.
 
 ## 📂 Estrutura de pastas
 src/ → contém os arquivos fonte em Java.
+
 bin/ → contém os arquivos compilados (.class).
 
 ## ✅ Vantagens
@@ -25,7 +26,9 @@ bin/ → contém os arquivos compilados (.class).
 
 ## 🛠️ Tecnologias usadas
 Java SE 8+
+
 Programação Orientada a Objetos
+
 Príncipios SOLID
 
 ## ✨ Execução
